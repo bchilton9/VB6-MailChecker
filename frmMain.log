@@ -1,0 +1,16 @@
+Line 33: Class MSWinsockLib.Winsock of control Winsock1 was not a loaded control class.
+Line 66: Class ComctlLib.ListView of control lvMessages was not a loaded control class.
+Line 36: The property name _ExtentX in Winsock1 is invalid.
+Line 37: The property name _ExtentY in Winsock1 is invalid.
+Line 38: The property name _Version in Winsock1 is invalid.
+Line 72: The property name _ExtentX in lvMessages is invalid.
+Line 73: The property name _ExtentY in lvMessages is invalid.
+Line 74: The property name View in lvMessages is invalid.
+Line 75: The property name LabelWrap in lvMessages is invalid.
+Line 76: The property name HideSelection in lvMessages is invalid.
+Line 77: The property name _Version in lvMessages is invalid.
+Line 82: The property name NumItems in lvMessages is invalid.
+Line 88: The property name ColumnHeader(1) in lvMessages is invalid.
+Line 95: The property name ColumnHeader(2) in lvMessages is invalid.
+Line 102: The property name ColumnHeader(3) in lvMessages is invalid.
+Line 109: The property name ColumnHeader(4) in lvMessages is invalid.
